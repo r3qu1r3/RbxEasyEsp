@@ -44,7 +44,7 @@ The Roblox ESP (Extra Sensory Perception) Library is a comprehensive visual over
 
 1. **Load the Module**:
 ```lua
-local Esp = require(path.to.EspModule)
+local Esp = require( LOADSTRING / MODULE )
 ```
 
 2. **Initialize Player ESP**:
